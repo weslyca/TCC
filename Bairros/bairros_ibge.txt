@@ -1,0 +1,88 @@
+Abraao 5883
+Agronomica 15588
+Alto Ribeirao 1901
+Alto Ribeirao Leste 2563
+Armacao 2837
+Autodromo 694
+Acores 938
+Balneario 5826
+Barra da Lagoa 4925
+Barra do Sambaqui 1180
+Base Aerea 519
+Bom Abrigo 1510
+Cachoeira do Bom Jesus 1651
+Cachoeira do Bom Jesus Leste 2471
+Cacupe 601
+Caiacanga 917
+Caieira 271
+Campeche Central 3533
+Campeche Leste 4373
+Campeche Norte 3032
+Campeche Sul 4498
+Campus ..
+Canasvieiras 8693
+Canto 6494
+Canto da Lagoa 854
+Canto do Lamim 338
+Canto dos Aracas 258
+Capivari 17031
+Capoeiras 18632
+Carianos 4651
+Centro 44315
+Coloninha 4709
+Coqueiros 13263
+Costeira do Pirajubae 9341
+Costeira do Ribeirao 408
+Corrego Grande 10563
+Daniela 787
+Dunas da Lagoa 379
+Estreito 7878
+Forte 254
+Ingleses Centro 4552
+Ingleses Norte 906
+Ingleses Sul 2420
+Itacorubi 15665
+Itaguacu 2114
+Jardim Atlantico 12158
+Jose Mendes 3385
+Joao Paulo 4774
+Jurere Leste 3620
+Jurere Oeste 1911
+Lagoa 5654
+Lagoa Pequena 1637
+Lagoinha do Norte 387
+Moenda 859
+Monte Cristo 12707
+Monte Verde 6429
+Morro das Pedras 781
+Morro do Peralta ..
+Pantanal 5496
+Pedregal 1029
+Pedrita 2280
+Ponta das Canas 3168
+Porto da Lagoa 2216
+Praia Brava 975
+Praia Mole 206
+Pantano do Sul 2528
+Ratones 1120
+Recanto dos Acores 372
+Ressacada 3066
+Retiro 634
+Ribeirao da Ilha 1444
+Rio Tavares Central 4322
+Rio Tavares do Norte 2402
+Rio Vermelho 10756
+Rio das Pacas 84
+Saco Grande 7607
+Saco dos Limoes 14670
+Sambaqui 1408
+Santa Monica 1658
+Santinho 3723
+Santo Antonio 1653
+Tapera 364
+Tapera da Base 9715
+Trindade 18812
+Vargem Grande 3354
+Vargem Pequena 571
+Vargem de Fora 1501
+Vargem do Bom Jesus 3148

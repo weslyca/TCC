@@ -1,0 +1,159 @@
+Região 1:
+CACHOEIRA DO BOM JESUS
+INGLESES
+CANASVIEIRAS
+PONTA DAS CANAS
+SANTINHO
+
+Regiões vizinhas:
+2 com beta 0.29429358738247224
+População total: 50964
+Número de infectados (ativos): 69
+
+
+Região 2:
+JURERE
+VARGEM PEQUENA
+VARGEM GRANDE
+RIO VERMELHO
+
+Regiões vizinhas:
+1 com beta 0.40583218531760884
+3 com beta 0.16616631761679898
+4 com beta 0.25876141711591905
+População total: 21253
+Número de infectados (ativos): 38
+
+
+Região 3:
+SANTO ANTONIO DE LISBOA
+RATONES
+SACO GRANDE
+COSTA DA LAGOA
+
+Regiões vizinhas:
+2 com beta 0.28483548884272597
+4 com beta 0.43550224485693223
+População total: 20867
+Número de infectados (ativos): 12
+
+
+Região 4:
+ITACORUBI
+JOAO PAULO
+LAGOA DA CONCEICAO
+BARRA DA LAGOA
+
+Regiões vizinhas:
+2 com beta 0.09702351061401507
+3 com beta 0.09526135585482766
+7 com beta 0.33081031727916
+8 com beta 0.1779411093357681
+9 com beta 0.15061858023282357
+População total: 32495
+Número de infectados (ativos): 42
+
+
+Região 5:
+BALNEARIO
+JARDIM ATLANTICO
+ESTREITO
+NOVO CONTINENTE
+COLONINHA
+SAPE
+MONTE CRISTO
+
+Regiões vizinhas:
+6 com beta 0.413645676436744
+População total: 62676
+Número de infectados (ativos): 70
+
+
+Região 6:
+CAPOEIRAS
+VILA APARECIDA
+ABRAAO
+COQUEIROS
+
+Regiões vizinhas:
+5 com beta 0.3494522037300326
+7 com beta 0.404025535948259
+População total: 44215
+Número de infectados (ativos): 19
+
+
+Região 7:
+AGRONOMICA
+PRAINHA
+CENTRO
+MONTE SERRAT
+
+Regiões vizinhas:
+4 com beta 0.17270610995365449
+6 com beta 0.2349961733066882
+8 com beta 0.2071622943152345
+População total: 72464
+Número de infectados (ativos): 49
+
+
+Região 8:
+TRINDADE
+PANTANAL
+SACO DOS LIMOES
+
+Regiões vizinhas:
+9 com beta 0.1864748770700277
+4 com beta 0.18366020460068955
+7 com beta 0.4095631040524501
+População total: 38978
+Número de infectados (ativos): 22
+
+
+Região 9:
+CANTO DA LAGOA
+RIO TAVARES
+CORREGO GRANDE
+COSTEIRA DO PIRAJUBAE
+
+Regiões vizinhas:
+10 com beta 0.2580487077322992
+4 com beta 0.23078999140618897
+8 com beta 0.27683435251670824
+População total: 32993
+Número de infectados (ativos): 28
+
+
+Região 10:
+TAPERA
+CARIANOS
+FAZENDA DO RIO TAVARES
+CAMPECHE
+
+Regiões vizinhas:
+9 com beta 0.4046234976698553
+11 com beta 0.1497915133676723
+População total: 36333
+Número de infectados (ativos): 41
+
+
+Região 11:
+MORRO DAS PEDRAS
+ARMACAO
+RIBEIRAO DA ILHA
+ALTO RIBEIRAO
+
+Regiões vizinhas:
+10 com beta 0.6818616871539833
+12 com beta 0.08891808201182322
+População total: 12214
+Número de infectados (ativos): 21
+
+
+Região 12:
+CAIEIRA DA BARRA DO SUL
+PANTANO DO SUL
+
+Regiões vizinhas:
+11 com beta 0.7205049551675319
+População total: 4738
+Número de infectados (ativos): 4

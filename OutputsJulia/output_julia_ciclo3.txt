@@ -1,0 +1,181 @@
+completion of a partial solution failed (subproblem is infeasible)
+presolving:
+(round 1, fast)       35 del vars, 85 del conss, 0 add conss, 42 chg bounds, 0 chg sides, 0 chg coeffs, 0 upgd conss, 0 impls, 0 clqs
+(round 2, fast)       35 del vars, 87 del conss, 0 add conss, 42 chg bounds, 0 chg sides, 0 chg coeffs, 0 upgd conss, 0 impls, 0 clqs
+(round 3, fast)       35 del vars, 87 del conss, 16 add conss, 42 chg bounds, 0 chg sides, 0 chg coeffs, 0 upgd conss, 0 impls, 0 clqs
+(round 4, fast)       35 del vars, 87 del conss, 16 add conss, 44 chg bounds, 0 chg sides, 0 chg coeffs, 16 upgd conss, 0 impls, 0 clqs
+(round 5, fast)       35 del vars, 87 del conss, 16 add conss, 50 chg bounds, 0 chg sides, 0 chg coeffs, 16 upgd conss, 0 impls, 0 clqs
+(round 6, fast)       35 del vars, 87 del conss, 17 add conss, 50 chg bounds, 0 chg sides, 0 chg coeffs, 16 upgd conss, 0 impls, 0 clqs
+(round 7, fast)       35 del vars, 87 del conss, 17 add conss, 50 chg bounds, 0 chg sides, 0 chg coeffs, 17 upgd conss, 0 impls, 0 clqs
+(round 8, exhaustive) 35 del vars, 87 del conss, 17 add conss, 50 chg bounds, 0 chg sides, 0 chg coeffs, 27 upgd conss, 0 impls, 0 clqs
+(round 9, exhaustive) 35 del vars, 87 del conss, 18 add conss, 50 chg bounds, 0 chg sides, 0 chg coeffs, 28 upgd conss, 10 impls, 0 clqs
+(round 10, fast)       36 del vars, 88 del conss, 18 add conss, 50 chg bounds, 0 chg sides, 0 chg coeffs, 28 upgd conss, 10 impls, 2 clqs
+   (0.0s) probing cycle finished: starting next cycle
+   (0.0s) symmetry computation skipped: there exist constraints that cannot be handled by symmetry methods.
+presolving (11 rounds: 11 fast, 3 medium, 3 exhaustive):
+ 36 deleted vars, 88 deleted constraints, 18 added constraints, 50 tightened bounds, 0 added holes, 0 changed sides, 0 changed coefficients
+ 30 implications, 6 cliques
+presolved problem has 39 variables (6 bin, 16 int, 0 impl, 17 cont) and 34 constraints
+     10 constraints of type <varbound>
+      1 constraints of type <and>
+      7 constraints of type <linear>
+     15 constraints of type <quadratic>
+      1 constraints of type <nonlinear>
+Presolving Time: 0.02
+
+ time | node  | left  |LP iter|LP it/n|mem/heur|mdpt |vars |cons |rows |cuts |sepa|confs|strbr|  dualbound   | primalbound  |  gap   | compl. 
+  0.0s|     1 |     0 |    13 |     - |  1727k |   0 |  39 |  34 |  25 |   0 |  0 |   0 |   0 | 6.008094e+02 |      --      |    Inf | unknown
+L 0.2s|     1 |     0 |    33 |     - |    alns|   0 |  39 |  34 |  25 |   0 |  2 |   0 |   0 | 6.008094e+02 | 6.222867e+02 |   3.57%| unknown
+  0.2s|     1 |     0 |    33 |     - |  1735k |   0 |  39 |  34 |  25 |   0 |  2 |   0 |   0 | 6.008094e+02 | 6.222867e+02 |   3.57%| unknown
+  0.2s|     1 |     0 |    33 |     - |  1735k |   0 |  39 |  34 |  25 |   1 |  3 |   0 |   0 | 6.008094e+02 | 6.222867e+02 |   3.57%| unknown
+  0.2s|     1 |     2 |    33 |     - |  1735k |   0 |  39 |  34 |  25 |   1 |  4 |   0 |   0 | 6.008094e+02 | 6.222867e+02 |   3.57%| unknown
+  0.3s|   100 |    21 |    40 |   0.2 |  1753k |  13 |  39 |  34 |  20 |   9 |  1 |   0 |   0 | 6.008094e+02 | 6.222867e+02 |   3.57%|  17.24%
+  0.4s|   200 |    15 |    47 |   0.1 |  1753k |  13 |  39 |  26 |   0 |  15 |  0 |   0 |   0 | 6.008094e+02 | 6.222867e+02 |   3.57%|  66.05%
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 0.43
+Solving Nodes      : 215
+Primal Bound       : +6.22286727062950e+02 (1 solutions)
+Dual Bound         : +6.22286727062950e+02
+Gap                : 0.00 %
+12
+28
+Any[50964, 21253, 20867, 32495, 54595, 52296, 72464, 38978, 32993, 36333, 12214, 4738]
+Any[69, 38, 12, 42, 67, 22, 49, 22, 28, 41, 21, 4]
+1
+2
+* Solver : SCIP
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Result count       : 1
+  Has duals          : false
+  Message from the solver:
+  "SCIP_STATUS_OPTIMAL"
+
+* Candidate solution
+  Objective value      : 622.28672706295
+  Objective bound      : 622.28672706295
+  Primal solution :
+    f[1,2] : 11.0
+    f[10,11] : 2.0
+    f[10,9] : 0.0
+    f[11,10] : 0.0
+    f[11,12] : 1.0
+    f[12,11] : 0.0
+    f[2,1] : 0.0
+    f[2,3] : 10.0
+    f[2,4] : 0.0
+    f[3,2] : 0.0
+    f[3,4] : 9.0
+    f[4,2] : 0.0
+    f[4,3] : 0.0
+    f[4,7] : 3.0
+    f[4,8] : 1.0
+    f[4,9] : 4.0
+    f[5,6] : 0.0
+    f[6,5] : 1.0
+    f[6,7] : 0.0
+    f[7,4] : 0.0
+    f[7,6] : 2.0
+    f[7,8] : 0.0
+    f[8,4] : 0.0
+    f[8,7] : 0.0
+    f[8,9] : 0.0
+    f[9,10] : 3.0
+    f[9,4] : 0.0
+    f[9,8] : 0.0
+    x[1,2] : 1.0
+    x[10,11] : 1.0
+    x[10,9] : 1.0
+    x[11,10] : 1.0
+    x[11,12] : 1.0
+    x[12,11] : 1.0
+    x[2,1] : 1.0
+    x[2,3] : 1.0
+    x[2,4] : 0.0
+    x[3,2] : 1.0
+    x[3,4] : 1.0
+    x[4,2] : 0.0
+    x[4,3] : 1.0
+    x[4,7] : 1.0
+    x[4,8] : 1.0
+    x[4,9] : 1.0
+    x[5,6] : 1.0
+    x[6,5] : 1.0
+    x[6,7] : 1.0
+    x[7,4] : 1.0
+    x[7,6] : 1.0
+    x[7,8] : 0.0
+    x[8,4] : 1.0
+    x[8,7] : 0.0
+    x[8,9] : 1.0
+    x[9,10] : 1.0
+    x[9,4] : 1.0
+    x[9,8] : 1.0
+    z : 622.28672706295
+
+* Work counters
+  Solve time (sec)   : 0.43268
+  Simplex iterations : 47
+  Node count         : 215
+Value of x:
+  [1, 2  ]  =  1.0
+  [10, 11]  =  1.0
+  [10, 9 ]  =  1.0
+  [11, 10]  =  1.0
+  [11, 12]  =  1.0
+  [12, 11]  =  1.0
+  [2, 1  ]  =  1.0
+  [2, 3  ]  =  1.0
+  [2, 4  ]  =  0.0
+  [3, 2  ]  =  1.0
+  [3, 4  ]  =  1.0
+  [4, 2  ]  =  0.0
+  [4, 3  ]  =  1.0
+  [4, 7  ]  =  1.0
+  [4, 8  ]  =  1.0
+  [4, 9  ]  =  1.0
+  [5, 6  ]  =  1.0
+  [6, 5  ]  =  1.0
+  [6, 7  ]  =  1.0
+  [7, 4  ]  =  1.0
+  [7, 6  ]  =  1.0
+  [7, 8  ]  =  0.0
+  [8, 4  ]  =  1.0
+  [8, 7  ]  =  0.0
+  [8, 9  ]  =  1.0
+  [9, 10 ]  =  1.0
+  [9, 4  ]  =  1.0
+  [9, 8  ]  =  1.0
+Value of f
+  [1, 2  ]  =  11.0
+  [10, 11]  =  2.0
+  [10, 9 ]  =  0.0
+  [11, 10]  =  0.0
+  [11, 12]  =  1.0
+  [12, 11]  =  0.0
+  [2, 1  ]  =  0.0
+  [2, 3  ]  =  10.0
+  [2, 4  ]  =  0.0
+  [3, 2  ]  =  0.0
+  [3, 4  ]  =  9.0
+  [4, 2  ]  =  0.0
+  [4, 3  ]  =  0.0
+  [4, 7  ]  =  3.0
+  [4, 8  ]  =  1.0
+  [4, 9  ]  =  4.0
+  [5, 6  ]  =  0.0
+  [6, 5  ]  =  1.0
+  [6, 7  ]  =  0.0
+  [7, 4  ]  =  0.0
+  [7, 6  ]  =  2.0
+  [7, 8  ]  =  0.0
+  [8, 4  ]  =  0.0
+  [8, 7  ]  =  0.0
+  [8, 9  ]  =  0.0
+  [9, 10 ]  =  3.0
+  [9, 4  ]  =  0.0
+  [9, 8  ]  =  0.0
